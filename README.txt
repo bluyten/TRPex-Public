@@ -1,0 +1,1 @@
+TDMS files are too large to commit, so experimental data should be added by the user in the Data/ folder as Data_New.tdms (new configuration BEM) and Data_Old.tdms (old configuration BEM)
